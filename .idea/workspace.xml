@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="20394e89-d6e3-4763-8b95-9ae4aeeb3b80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/02-html/02-html.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/02-html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02-html/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CNTraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CNTraining-HTML.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02-html/02-html.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/02-html/02-html.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02-html/02-html.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/02-html/02-html.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,6 +63,9 @@
       <workItem from="1634045085404" duration="3037000" />
       <workItem from="1634100448422" duration="2976000" />
       <workItem from="1634122987089" duration="4768000" />
+      <workItem from="1634195246284" duration="150000" />
+      <workItem from="1634195422273" duration="4740000" />
+      <workItem from="1634279597745" duration="1989000" />
     </task>
     <servers />
   </component>
